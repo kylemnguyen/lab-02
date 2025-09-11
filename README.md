@@ -10,7 +10,7 @@
 List any resources used here, or simply put `N/A` if not applicable.
 
 https://www.geeksforgeeks.org/android/how-to-dynamically-add-elements-to-a-listview-in-android/ 
-
+https://stackoverflow.com/questions/6216547/android-dynamically-add-views-into-view
 
 
 ## Verbal Collaboration
